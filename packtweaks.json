@@ -1,0 +1,386 @@
+{
+  "0": {
+    "name": "ItemPyshics",
+    "type": "MODELS",
+    "filename": "ItemPyshics.zip",
+    "description": "§bItem Physics\n§7By Stridey\nThis pack makes dropped items lay flat on their sides (mimicking bahviours from the various 'Item Physics' mods). Remember that this is only a basic recreation of the mods in resource pack form, so items will still float and rotate, and all throwable items (such as eggs, ender pearls, snowballs, etc.) remain upright like in vanilla due to restrictions.",
+    "mini-image": "https://media.forgecdn.net/avatars/413/806/637635165295150145.png",
+    "pack-format": 7
+  },
+  "1": {
+    "name": "NoBlockParticles",
+    "type": "MODELS",
+    "filename": "§b§lNoBlockParticles.zip",
+    "description": "§bNo Block Particles\n§7By Unknown\nThis pack removes all particles in 1.8x while breaking blocks (THIS IS NOT BREAKING STAGE). This can improve your gaming experience and FPS.",
+    "mini-image": "https://i.imgur.com/lpw5pt7.png",
+    "pack-format": 1
+  },
+  "2": {
+    "name": "Bedless15k32xSwords",
+    "type": "ITEMS",
+    "filename": "§bBedless15k32xSwords.zip",
+    "description": "§bBedless15k32xSwords\n§7Sword overlay used in Bedless 15k Pack.",
+    "mini-image": "https://i.imgur.com/vaAZPVJ.png",
+    "pack-format": 1
+  },
+  "3": {
+    "name": "Volt32xSwords",
+    "type": "ITEMS",
+    "filename": "§bVolt32xSwords.zip",
+    "description": "§bVolt32xSwords\n§7Sword overlay used in AngelStax's 60k pack.",
+    "mini-image": "https://i.imgur.com/bhAQclV.png",
+    "pack-format": 1
+  },
+  "4": {
+    "name": "Control32xSwords",
+    "type": "ITEMS",
+    "filename": "§bControl32xSwords.zip",
+    "description": "§bControl32xSwords\n§7Sword overlay used in control 32x.",
+    "mini-image": "https://i.imgur.com/f1IPH59.png",
+    "pack-format": 1
+  },
+  "5": {
+    "name": "Cerulium32xSwords",
+    "type": "ITEMS",
+    "filename": "§bCerulium32xSwords.zip",
+    "description": "§bCerulium32xSwords\n§7Sword overlay used in iGuztavox_20k.",
+    "mini-image": "https://i.imgur.com/zI1rAXm.png",
+    "pack-format": 1
+  },
+  "6": {
+    "name": "Altrair32xSwords",
+    "type": "ITEMS",
+    "filename": "§bAltrair32xSwords.zip",
+    "description": "§bAltrair32xSwords\n§7Sword overlay used in Private pack by Zuphers.",
+    "mini-image": "https://i.imgur.com/TgwSeL1.png",
+    "pack-format": 1
+  },
+  "7": {
+    "name": "QuantumBlue64xSwords",
+    "type": "ITEMS",
+    "filename": "§bQuantumBlue64xSwords.zip",
+    "description": "§bQuantumBlue64xSwords\n§7Sword overlay used in refraction 50k pack release.",
+    "mini-image": "https://i.imgur.com/ZsGQLK8.png",
+    "pack-format": 1
+  },
+  "8": {
+    "name": "Bedless350k64xSwords",
+    "type": "ITEMS",
+    "filename": "§bBedless350k64xSwords.zip",
+    "description": "§bBedless350k64xSwords\n§7Sword overlay used in Bedless 350k .",
+    "mini-image": "https://i.imgur.com/JWVSeVy.png",
+    "pack-format": 1
+  },
+  "9": {
+    "name": "PastelDotsWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "! Wool Overlay #3.zip",
+    "description": "§dPastel §7Dots §fWool §bOverlay\n§7Wool edited from 9 dots wool overlay.",
+    "mini-image": "https://i.imgur.com/0UvS2Xb.png",
+    "pack-format": 1
+  },
+  "10": {
+    "name": "RegalisWoolOverlays",
+    "type": "BLOCKS",
+    "filename": "! Wool Overlay #1.zip",
+    "description": "§eRegalis §fWool §bOverlays\n§7Wool from Regalis 16x by MqryoPacks.",
+    "mini-image": "https://i.imgur.com/FMlN5Lu.png",
+    "pack-format": 1
+  },
+  "11": {
+    "name": "SammyGreenGGMenWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "SammyGreenGGmen.zip",
+    "description": "§aSammy§2Green §bGGMen §fWool §bOverlay\n§7Wool overlay used in SammyGreen GGMen's pack.",
+    "mini-image": "https://i.imgur.com/WiyeB1h.png",
+    "pack-format": 1
+  },
+  "12": {
+    "name": "Dahlia16xWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "Dahlia16wool.zip",
+    "description": "§aDahlia 16x §fWool §bOverlay\n§7Wool overlay used in Dahlia 16x.",
+    "mini-image": "https://i.imgur.com/lCAPkna.png",
+    "pack-format": 1
+  },
+  "13": {
+    "name": "LooshyWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "LoshiWoolOverlay.zip",
+    "description": "§alooshy's §fWool §bOverlay\n§7Wool overlay made by looshy.",
+    "mini-image": "https://i.imgur.com/1Rc86yr.png",
+    "pack-format": 1
+  },
+  "14": {
+    "name": "HypFaultWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "HypFaultWoolOverlay.zip",
+    "description": "§bHypFault 16x §fWool §bOverlay\n§7Wool overlay used in HypFault 16x.",
+    "mini-image": "https://i.imgur.com/3pgTfA0.png",
+    "pack-format": 1
+  },
+  "15": {
+    "name": "FamousWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "FamousWoolOverlay.zip",
+    "description": "§9Known §fWool §bOverlay\n§7Wool overlay used in a lot of packs.",
+    "mini-image": "https://i.imgur.com/rsbcPKN.png",
+    "pack-format": 1
+  },
+  "16": {
+    "name": "Aphotic2kWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "Aphotic2kWoolOverlay.zip",
+    "description": "§cAphotic v2 §fWool §bOverlay\n§7Wool overlay used in Aphotic V2 .",
+    "mini-image": "https://i.imgur.com/ukrsUdZ.png",
+    "pack-format": 1
+  },
+  "17": {
+    "name": "DeciduosWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "DeciduosWoolOverlay.zip",
+    "description": "§eDeciduos 2k §fWool §bOverlay\n§7Wool overlay used in Deciduos 2k.",
+    "mini-image": "https://i.imgur.com/5FlUa41.png",
+    "pack-format": 1
+  },
+  "18": {
+    "name": "LukaipWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "LukaipWoolOverlay.zip",
+    "description": "§aRefault & Lukaip 16x §fWool §bOverlay\n§7Wool overlay used in Refault & Lukaip 16x.",
+    "mini-image": "https://i.imgur.com/8Nk2oY1.png",
+    "pack-format": 1
+  },
+  "19": {
+    "name": "KilluaWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "KilluaWoolOverlay.zip",
+    "description": "§eKillua 16x §fWool §bOverlay\n§7Wool overlay used in Killua 16x.",
+    "mini-image": "https://i.imgur.com/SETbd0o.png",
+    "pack-format": 1
+  },
+  "20": {
+    "name": "ShulkerWoolOverlay",
+    "type": "BLOCKS",
+    "filename": "ShulkerWoolOverlay.zip",
+    "description": "§dShulker §fWool §bOverlay\n§7Wool overlay made out of shulker boxs.",
+    "mini-image": "https://i.imgur.com/Bx4Ofan.png",
+    "pack-format": 1
+  },
+  "21": {
+    "name": "Sweatsbridgeoverlay",
+    "type": "BLOCKS",
+    "filename": "Sweatsbridgeoverlay.zip",
+    "description": "§caSweat §1Bridge §fOverlay\n§7Bridge overlay made by aSweat.",
+    "mini-image": "https://i.imgur.com/HJdNtnP.png",
+    "pack-format": 1
+  },
+  "22": {
+    "name": "TetrisBridgeOverlay",
+    "type": "BLOCKS",
+    "filename": "TetrisBridgeOverlay.zip",
+    "description": "§5Tetris §1Bridge §fOverlay\n§7Bridge overlay made by ApplePies.",
+    "mini-image": "https://i.imgur.com/TwwQbE9.png",
+    "pack-format": 1
+  },
+  "23": {
+    "name": "PurpleAndPinkBridgeOverlay",
+    "type": "BLOCKS",
+    "filename": "PurpleAndPinkBridgeOverlay.zip",
+    "description": "§5Purple §7and §dPink §1Bridge §fOverlay\n§7Bridge overlay where red and blue are inverted.",
+    "mini-image": "https://i.imgur.com/eiVCFKV.png",
+    "pack-format": 1
+  },
+  "24": {
+    "name": "CheetahhBridgeOverlay",
+    "type": "BLOCKS",
+    "filename": "CheetahhBridgeOverlay.zip",
+    "description": "§2Cheetahh §1Bridge §fOverlay\n§7Custom §2Chetaah §7Bridge overlay.",
+    "mini-image": "https://i.imgur.com/3u5W43r.png",
+    "pack-format": 1
+  },
+  "25": {
+    "name": "AmethystBridgeOverlay",
+    "type": "BLOCKS",
+    "filename": "AmethystBridgeOverlay.zip",
+    "description": "§4Ame§dthst §1Bridge §fOverlay\n§7Bridge overlay and sound made out of amethysts.",
+    "mini-image": "https://i.imgur.com/O6mN4XF.png",
+    "pack-format": 1
+  },
+  "26": {
+    "name": "NilsBridgeOverlay",
+    "type": "BLOCKS",
+    "filename": "NilsBridgeOverlay.zip",
+    "description": "§aNils §1Bridge §fOverlay\n§7Bridge overlay made by Nils.",
+    "mini-image": "https://i.imgur.com/0fJlNRb.png",
+    "pack-format": 1
+  },
+  "27": {
+    "name": "CircleBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "CircleBreakingAnimations.zip",
+    "description": "§bCircle §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/56e9cAM.png",
+    "pack-format": 1
+  },
+  "28": {
+    "name": "CrackBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "CrackBreakingAnimations.zip",
+    "description": "§6Crack §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/qLKO9XD.png",
+    "pack-format": 1
+  },
+  "29": {
+    "name": "HDBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "HDBreakingAnimations.zip",
+    "description": "§bH§fD §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/Mlf85v2.png",
+    "pack-format": 1
+  },
+  "30": {
+    "name": "MovingBarBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "MovingBarBreakingAnimations.zip",
+    "description": "§bMoving §cBar §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/AyEj9o7.png",
+    "pack-format": 1
+  },
+  "31": {
+    "name": "ClockBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "ClockBreakingAnimations.zip",
+    "description": "§bClock §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/hsLEueD.png",
+    "pack-format": 1
+  },
+  "32": {
+    "name": "DiamondBreakingAnimations",
+    "type": "BLOCKS",
+    "filename": "DiamondBreakingAnimations.zip",
+    "description": "§cDiamond §7Breaking §fOverlay\n§7Block breaking overlay.",
+    "mini-image": "https://i.imgur.com/lrbDCee.png",
+    "pack-format": 1
+  },
+  "33": {
+    "name": "§2§lBubble Jonaaah's §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "Bubble.zip",
+    "description": "§2§lBubble Jonaaah's §9Sound §7Overlay\n§7Sound overlay made by jonaah for pvp. (smooth hit sounds)",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  },
+  "34": {
+    "name": "§aswrz's §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "swrzsound.zip",
+    "description": "§9Sound §7Overlay\n§7Smooth sound overlay. contains any type of sound :D",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  },
+  "35": {
+    "name": "§6Minecraft alpha §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "MinecraftAlphaSounds.zip",
+    "description": "§6Minecraft alpha §9Sound §7Overlay\n§7This overlay changes the sound overlay into the old minecraft alpha. The hit sound is similar to roblox death sound.",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  },
+  "36": {
+    "name": "§cRaiys §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "RaiysSoundPackOverlay.zip",
+    "description": "§cRaiys §9Sound §7Overlay\n§7This overlay is good for pvp, hitsounds kinda good.",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  },
+  "37": {
+    "name": "§eEnhanced §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "EnhancedSoundOverlay.zip",
+    "description": "§eEnhanced §9Sound §7Overlay\n§7Good for potpvp.",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  },
+  "38": {
+    "name": "§3Romins §9Sound §7Overlay",
+    "type": "SOUNDS",
+    "filename": "RominsCustomeSounds.zip",
+    "description": "§3Romins §9Sound §7Overlay\n§7Good for bedwars. Similar to novis's soundpack.",
+    "mini-image": "https://i.imgur.com/qsNmAUh.png",
+    "pack-format": 1
+  }, 
+  "39": {
+    "name": "Chroma Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "ChromaSandstoneoverlay.zip",
+    "description": "§dChroma §6Sandstone §7Overlay\n§7Makes the sandstone connected and chroma with animation.",
+    "mini-image": "https://i.imgur.com/smrdQif.png",
+    "pack-format": 1
+  }, 
+  "40": {
+    "name": "White Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "WhiteBlockSandstone.zip",
+    "description": "§fWhite §6Sandstone §7Overlay\n§7Makes the sandstone white.",
+    "mini-image": "https://i.imgur.com/Y4Yvgp3.png",
+    "pack-format": 1
+  },
+  "41": {
+    "name": "Grey Chinese Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "GreyBlockSandstone.zip",
+    "description": "§7Grey Chinese §6Sandstone §7Overlay\n§7Makes the sandstone grey with a chinese character.",
+    "mini-image": "https://i.imgur.com/1MPICYN.png",
+    "pack-format": 1
+  },
+  "42": {
+    "name": "Telly Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "TellySandstoneOverlay.zip",
+    "description": "§7Telly §6Sandstone §7Overlay\n§7Makes the sandstone look great for tellybridging.",
+    "mini-image": "https://i.imgur.com/Xevyd6w.png",
+    "pack-format": 1
+  },
+  "43": {
+    "name": "Black Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "BlackSandstoneOverlay.zip",
+    "description": "§0Black §6Sandstone §7Overlay\n§7Makes the sandstone look with black outline (also connected).",
+    "mini-image": "https://i.imgur.com/bqnnMcM.png",
+    "pack-format": 1
+  },
+  "44": {
+    "name": "Red Sandstone Overlay",
+    "type": "BLOCKS",
+    "filename": "RedSandstoneOverlay.zip",
+    "description": "§4Red §6Sandstone §7Overlay\n§7Makes the sandstone look with red outline (also connected).",
+    "mini-image": "https://i.imgur.com/pACJYL3.png",
+    "pack-format": 1
+  },
+  "45": {
+    "name": "Axolotl 3D Bed Overlay",
+    "type": "BLOCKS",
+    "filename": "Axolotl 3D bed overlay.zip",
+    "description": "§dAxolotl §13D §4bed §7Overlay\n§7Makes the bed 3D with an axolotl inside of it.",
+    "mini-image": "https://i.imgur.com/upGJI68.png",
+    "pack-format": 1
+  },
+  "46": {
+    "name": "Steve 3D Bed Overlay",
+    "type": "BLOCKS",
+    "filename": "Steve 3D bed overlay.zip",
+    "description": "§3Steve §13D §4bed §7Overlay\n§7Makes the bed 3D with a steve inside of it.",
+    "mini-image": "https://i.imgur.com/DGft98F.png",
+    "pack-format": 1
+  },
+  "47": {
+    "name": "Fancy 3D Bed Overlay",
+    "type": "BLOCKS",
+    "filename": "Fancy 3D bed overlay.zip",
+    "description": "§3Steve §13D §4bed §7Overlay\n§7Makes the bed more fancy and 3D.",
+    "mini-image": "https://i.imgur.com/I9o5FKD.png",
+    "pack-format": 1
+  }
+}
