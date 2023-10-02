@@ -6,7 +6,7 @@ const app = express()
 
 
 const listallPIN = 9652;
-const port = 20440
+const port = 80
 const latestVersion = "10"
 
 
