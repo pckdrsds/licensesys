@@ -11,19 +11,19 @@ const latestVersion = "10"
 
 
 
-let packtweaks = fs.readFileSync("./packcreator/packtweaks.json", "utf-8")
+let packtweaks = fs.readFileSync("./packtweaks.json", "utf-8")
 let json; 
 class DB {
   static load() {
-    json = JSON.parse(fs.readFileSync("./packcreator/db.json", "utf-8"));
+    json = JSON.parse(fs.readFileSync("./db.json", "utf-8"));
   }
   static set(key, value) {
     json[key] = value;
-    fs.writeFileSync("./packcreator/db.json", JSON.stringify(json))
+    fs.writeFileSync("./db.json", JSON.stringify(json))
   }
   static remove(key) {
     delete json[key];
-    fs.writeFileSync("./packcreator/db.json", JSON.stringify(json))
+    fs.writeFileSync("./db.json", JSON.stringify(json))
   }
   static get(key) {
     if(!json[key]) return null;
@@ -128,7 +128,7 @@ app.get("/download", async (req, res) => {
     responsecode = 400;
   } else {
     req.query.file = req.query.file.replace(/Â/g, '');
-    res.status(responsecode).sendfile("./packcreator/packs/"+req.query.file);
+    res.status(responsecode).sendfile("./packs/"+req.query.file);
   }
   res.status(responsecode);
 })
